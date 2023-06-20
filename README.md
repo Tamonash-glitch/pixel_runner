@@ -1,4 +1,4 @@
-Pixel Runner
+#Pixel Runner
 Pixel Runner is a simple endless runner game built with Pygame. The player controls a character and tries to avoid obstacles while running. The score increases as the player survives longer.
 
 Prerequisites
